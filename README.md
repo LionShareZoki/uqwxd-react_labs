@@ -1,4 +1,4 @@
-### uqwxd-react_labs
+# uqwxd-react_labs
 
 This repository contains a collection of React-based lab exercises designed to help developers gain hands-on experience with the React framework.
 
